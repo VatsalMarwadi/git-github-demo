@@ -1,4 +1,4 @@
 # git-github-demo
-This Is My Practise Repository For Git And Github.
+This Is My practice Repository For Git And Github.
 <br>
-Author - Vatsal Marwadi
+Author - Vatsal (Charusat University)
